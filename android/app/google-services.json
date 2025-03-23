@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532529362930",
+    "project_id": "postinfo-de30c",
+    "storage_bucket": "postinfo-de30c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532529362930:android:a1a0c6f849cf1f8b231d6b",
+        "android_client_info": {
+          "package_name": "com.example.postinfo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Gq2fIjkSnsF4qlkjgrh_sUORyMHC4s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
